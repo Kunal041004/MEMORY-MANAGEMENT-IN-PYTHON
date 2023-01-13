@@ -1,9 +1,4 @@
-Python_Memory_Management/README.md
-@Mayank230604
-Mayank230604 Update README.md
- 1 contributor
-
-Python_Memory_Management
+Python_Memory_Management 
 Memory Management in Python
 Memory allocation can be defined as allocating a block of space in the computer memory to a program.
 Garbage Collection:
